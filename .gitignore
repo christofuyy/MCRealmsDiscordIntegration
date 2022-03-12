@@ -1,2 +1,9 @@
 # python venv
 mc-discord-bot/
+
+# packaging
+*.egg-info/
+*.egg
+
+# cache
+__pycache__/
